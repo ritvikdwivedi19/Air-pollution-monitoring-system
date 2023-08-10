@@ -20,3 +20,17 @@ LEDs
 
 **System Architecture:**
 ![air image](https://github.com/ritvikdwivedi19/Air-pollution-monitoring-system/assets/131281117/1fdb1be6-8245-4c7a-a21d-c238b5d109d0)
+
+**Software Requirement:**
+
+[Arduino IDE](https://www.arduino.cc/)
+Arduino IDE used to upload programming in Arduino board and Node-MCU board with required library.
+
+[Thingspeak](https://thingspeak.com/)
+ThingSpeak is an IoT analytics platform service that allows you to aggregate, visualize, and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices, create instant visualization of live data, and send alerts.
+
+**RESULTS:**
+
+![figg1](https://github.com/ritvikdwivedi19/Air-pollution-monitoring-system/assets/131281117/a7a60b63-5cbb-496f-aaaf-26b290fcb58d)
+![figGg1](https://github.com/ritvikdwivedi19/Air-pollution-monitoring-system/assets/131281117/59b07a69-78d2-4769-8018-773e269d2f79)
+![FIGGG3](https://github.com/ritvikdwivedi19/Air-pollution-monitoring-system/assets/131281117/45d2ecc9-94f0-4133-8b18-921e52746b90)
